@@ -1,6 +1,7 @@
 # Investigate-Hotel-Business-using-Data-Visualization
 - Consists of 119,390 rows and 29 columns
 - There is a target column
+- Make the results of hotel business performance investigations.
 - The dataset contains travel and lodging information, cancellation information, types of deposits that are often used, and types of customers who often stay.
 ## Data Processing
 - Handle missing data.
