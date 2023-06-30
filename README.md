@@ -22,7 +22,7 @@
 ![Distribution Market Segment](https://github.com/NurulIlahiHusnah/Investigate-Hotel-Business-using-Data-Visualization/assets/125198828/ea2f0734-2868-44a2-a112-96b8f8ea3350)
 6. Customer Type<br>
 ![Distribution Customer Type](https://github.com/NurulIlahiHusnah/Investigate-Hotel-Business-using-Data-Visualization/assets/125198828/6a1caf34-f383-4a6c-95b8-0d2d7528c922)
-### Result Investigation 
+### Result Investigation and Recommedation
 1. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates<br>
 
 Hotel | Duration Status | is canceled | Duration Rasio 
