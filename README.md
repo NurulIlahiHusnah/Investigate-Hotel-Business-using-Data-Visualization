@@ -24,6 +24,15 @@
 ![Distribution Customer Type](https://github.com/NurulIlahiHusnah/Investigate-Hotel-Business-using-Data-Visualization/assets/125198828/6a1caf34-f383-4a6c-95b8-0d2d7528c922)
 ### Result Investigation 
 1. Monthly Hotel Booking Analysis Based on Hotel Type<br>
-
+|     hotel    | Duration Status | is canceled | Duration Rasio |
+|:------------:|:---------------:|:-----------:|:--------------:|
+|  City Hotel  |      A day      |    31618    |    71.495116   |
+|  City Hotel  |     A month     |     179     |    0.404758    |
+|  City Hotel  |      A week     |     1295    |    2.928274    |
+|  City Hotel  |  Several month  |      10     |    0.022612    |
+| Resort Hotel |      A day      |     7758    |    17.542511   |
+| Resort Hotel |     A month     |     305     |    0.689671    |
+| Resort Hotel |      A week     |     3053    |    6.903491    |
+| Resort Hotel |  Several month  |      6      |    0.013567    |
 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
 3. Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
