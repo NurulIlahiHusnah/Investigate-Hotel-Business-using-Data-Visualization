@@ -1,4 +1,4 @@
-# Investigate-Hotel-Business-using-Data-Visualization
+# Investigate Hotel Business using Data Visualization
 - Consists of 119,390 rows and 29 columns
 - There is a target column
 - Make the results of hotel business performance investigations.
